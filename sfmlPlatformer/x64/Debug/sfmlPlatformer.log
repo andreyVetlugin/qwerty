@@ -1,0 +1,19 @@
+﻿  animation_handler.cpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\animation_handler.hpp(3): fatal error C1083: Не удается открыть файл включение: SFMl/Graphics.hpp: No such file or directory,
+  animation_handler.hpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\animation_handler.hpp(3): fatal error C1083: Не удается открыть файл включение: SFMl/Graphics.hpp: No such file or directory,
+  game.cpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\game.hpp(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  in_game_object.cpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\in_game_object.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  in_game_state.cpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\in_game_state.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  in_game_state.hpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\in_game_state.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  main.cpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\animation_handler.hpp(3): fatal error C1083: Не удается открыть файл включение: SFMl/Graphics.hpp: No such file or directory,
+  player.cpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\player.hpp(2): fatal error C1083: Не удается открыть файл включение: SFML/graphics.hpp: No such file or directory,
+  state.cpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\game.hpp(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Создание кода...

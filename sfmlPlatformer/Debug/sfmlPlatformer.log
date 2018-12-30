@@ -1,0 +1,6 @@
+﻿  in_game_state.cpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\animation_handler.hpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+  in_game_state.hpp
+c:\users\andrey\c++projects\games\smflplatformer\sfmlplatformer\sfmlplatformer\animation_handler.hpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  sfmlPlatformer.vcxproj -> C:\Users\andrey\c++projects\games\smflPlatformer\sfmlPlatformer\Debug\sfmlPlatformer.exe

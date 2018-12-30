@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="NewFilter1">
+      <UniqueIdentifier>{3329bfb6-6c71-4f9f-b716-4f3097b7a830}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\hpp">
+      <UniqueIdentifier>{41a5d731-85c5-491f-a118-147e21577691}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\cpp">
+      <UniqueIdentifier>{952a9ac7-eb2f-4630-8ad6-d1e041489cb8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="animation_handler.cpp">
+      <Filter>Исходные файлы\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Исходные файлы\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="in_game_state.cpp">
+      <Filter>Исходные файлы\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Исходные файлы\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="animation_handler.hpp">
+      <Filter>Исходные файлы\hpp</Filter>
+    </ClCompile>
+    <ClCompile Include="in_game_state.hpp">
+      <Filter>Исходные файлы\hpp</Filter>
+    </ClCompile>
+    <ClCompile Include="state.cpp">
+      <Filter>Исходные файлы\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="in_game_object.cpp">
+      <Filter>Исходные файлы\cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="boolinq.hpp">
+      <Filter>Исходные файлы\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="game.hpp">
+      <Filter>Исходные файлы\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="player.hpp">
+      <Filter>Исходные файлы\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="state.hpp">
+      <Filter>Исходные файлы\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="inGameEntity.h" />
+    <ClInclude Include="in_game_object.hpp">
+      <Filter>Исходные файлы\hpp</Filter>
+    </ClInclude>
+    <ClInclude Include="line.hpp">
+      <Filter>Исходные файлы\hpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
